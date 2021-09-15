@@ -1,0 +1,13 @@
+C:\Users\Артем\source\repos\TextAnalyzer\TextAnalyzer\bin\Debug\netcoreapp3.1\TextAnalyzer.exe
+C:\Users\Артем\source\repos\TextAnalyzer\TextAnalyzer\bin\Debug\netcoreapp3.1\TextAnalyzer.deps.json
+C:\Users\Артем\source\repos\TextAnalyzer\TextAnalyzer\bin\Debug\netcoreapp3.1\TextAnalyzer.runtimeconfig.json
+C:\Users\Артем\source\repos\TextAnalyzer\TextAnalyzer\bin\Debug\netcoreapp3.1\TextAnalyzer.runtimeconfig.dev.json
+C:\Users\Артем\source\repos\TextAnalyzer\TextAnalyzer\bin\Debug\netcoreapp3.1\TextAnalyzer.dll
+C:\Users\Артем\source\repos\TextAnalyzer\TextAnalyzer\bin\Debug\netcoreapp3.1\TextAnalyzer.pdb
+C:\Users\Артем\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\netcoreapp3.1\TextAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\netcoreapp3.1\TextAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\netcoreapp3.1\TextAnalyzer.AssemblyInfo.cs
+C:\Users\Артем\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\netcoreapp3.1\TextAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\netcoreapp3.1\TextAnalyzer.dll
+C:\Users\Артем\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\netcoreapp3.1\TextAnalyzer.pdb
+C:\Users\Артем\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\netcoreapp3.1\TextAnalyzer.genruntimeconfig.cache
